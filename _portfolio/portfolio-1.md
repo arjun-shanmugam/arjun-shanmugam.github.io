@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Eviction and Crime Incident Reports in Small Communities: Quasi-Experimental Evidence From Boston"
+excerpt: "Used Dask, Pandas, Statsmodels, econometric methods, and other tools to study the impact of eviction on incident reports around a property. Won prize for best senior thesis in graduating class. Eviction reduces the frequency of incident reports by leading to landlord renovations that gentrify neighborhoods. [PDF](/files/eviction_and_crime_in_small_communities.pdf), [Code](https://github.com/arjun-shanmugam/seniorthesis) <br/> <img src='/images/att_gt_dr_all_crimes_portfolio.png' width=600px height=auto>"
 collection: portfolio
 ---
 
