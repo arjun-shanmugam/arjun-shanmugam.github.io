@@ -1,6 +1,6 @@
 ---
-title: "Building and Applying a Bayesian Mixture Model"
-excerpt: "Used Bayesian statistics, Pandas, and NumPy to study the relationship between student teacher ratio and student test scores in Massachusetts. [PDF](/files/bayesian_mixture_model.pdf), [Code](https://github.com/arjun-shanmugam/bayesian-mixture-model) <br/> <img src='/images/bayesian_mixture_model.png' width=600px height=auto> <img src='/images/bayesian_mixture_model_2.png' width=600px height=auto>"
+title: "ttracker.io"
+excerpt: "Used Plotly Dash to build a simple web app that tracks Boston's rapid transit system in real time. <img src='/images/ttracker.png' width=600px height=auto>"
 collection: portfolio
 ---
 
